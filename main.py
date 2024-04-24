@@ -1,7 +1,7 @@
 '''
-ZEGUANG XIA
+William x andy
 CS472
-2024/4/24
+2024/4/20
 Log version 1.17:
 - Organize the format and use the correct decimal and hexadecimal
 - Optimize structure and enhance program stability
